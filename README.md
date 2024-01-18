@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on p-Classwise and LPX 50 Price Forecaster
+- 🌱 I’m currently learning about Reinforcement Learning and Big Data
+- 👯 I’m looking to collaborate on RL and sports related projects
+- 📫 How to reach me: https://www.linkedin.com/in/alex-nasoni/
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm currently living in Copenhagen, Denmark for the semester!
+
 <!--
 **alexcnsf/alexcnsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
