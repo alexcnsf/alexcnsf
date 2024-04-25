@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on p-Classwise and an Alternative Asset Index Price Forecaster
 - 🌱 I’m currently learning about Reinforcement Learning and Big Data
-- 👯 I’m looking to collaborate on RL and sports related projects
+- 👯 I’m looking to collaborate on RL and sports analytics related projects
 - 📫 How to reach me: https://www.linkedin.com/in/alex-nasoni/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm currently living in Copenhagen, Denmark for the semester!
