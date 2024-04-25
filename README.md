@@ -4,6 +4,13 @@
   </a>
 </h1>
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋&center=true&size=30&color=00008B">
+  </a>
+</h1>
+
+
 - 🧑‍🎓 I am a junior at Claremont McKenna College majoring in Data Science
 - 🔭 I’m currently working on a course scheduling web app called  p-Classwise and an Alternative Asset Index Price Forecaster for LPX AG
 - 🌱 At the moment I am really interest in Reinforcement Learning and Hadoop
