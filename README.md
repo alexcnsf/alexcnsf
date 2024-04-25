@@ -1,3 +1,4 @@
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=40&pause=100000&color=2991CFDC&random=false&width=435&lines=Welcome+to+my+Github)](https://github.com/alexcnsf)
 
 - 🧑‍🎓 I am a junior at Claremont McKenna College majoring in Data Science
