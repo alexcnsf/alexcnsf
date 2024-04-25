@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a course scheduling web app called  p-Classwise and an Alternative Asset Index Price Forecaster for LPX AG
 - 🌱 At the moment I am really interest in Reinforcement Learning and Hadoop
 - 👯 I’m looking to collaborate on RL and sports analytics related projects
-- 📫 How to reach me: https://www.linkedin.com/in/alex-nasoni/
+- 📫 Reach me at: https://www.linkedin.com/in/alex-nasoni/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm currently living in Copenhagen, Denmark for the semester!
 
