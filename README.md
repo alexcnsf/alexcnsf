@@ -10,40 +10,18 @@
   </a>
 </h1>
 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Typing Animation</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <h1 id="typing">Welcome to my Github</h1>
 </body>
 </html>
-
-@keyframes typing {
-    from { width: 0; }
-    to { width: 100%; }
-}
-
-@keyframes blink-caret {
-    from, to { border-color: transparent; }
-    50% { border-color: lightblue; }
-}
-
-#typing {
-    font-family: 'Times New Roman', serif;
-    font-size: 24px;
-    color: lightblue;
-    overflow: hidden;
-    border-right: .15em solid lightblue;  /* The typewriter cursor */
-    white-space: nowrap;
-    width: 0;
-    animation: typing 4s steps(40, end), blink-caret .75s step-end infinite;
-}
 
 
 - 🧑‍🎓 I am a junior at Claremont McKenna College majoring in Data Science
