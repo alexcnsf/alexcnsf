@@ -12,19 +12,15 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm currently living in Copenhagen, Denmark for the semester!
 
-<div class="center-text">
-    My tech stack includes:
-</div>
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Coding Language Icons</title>
+    <title>My tech stack includes</title>
 </head>
 <body>
-    <h1>Coding Icons Example</h1>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="50" height="50">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50">
