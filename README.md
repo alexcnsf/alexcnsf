@@ -12,27 +12,13 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm currently living in Copenhagen, Denmark for the semester!
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My tech stack includes:</title>
-    <style>
-        /* This CSS rule will ensure that all images inside the #icons div are displayed inline */
-        #icons {
-            display: flex;
-            justify-content: center; /* Center the icons horizontally */
-            align-items: center; /* Align the icons vertically in the middle */
-            gap: 10px; /* Adds space between the icons */
-        }
-    </style>
-</head>
-<body>
-    <div id="icons">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="50" height="50">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons
+<h1 align="center">My tech stack includes:</h1>
+
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="50" height="50">
+</p>
 
 
