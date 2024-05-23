@@ -2,7 +2,7 @@
 
 - 🧑‍🎓 I am a junior at Claremont McKenna College majoring in Data Science
 - 🔭 I’m currently working at Barracuda Networks as a Data Analytics Intern
-- 🌱 At the moment I am really interest in Reinforcement Learning and Hadoop
+- 🌱 At the moment I am really interested in Reinforcement Learning and Hadoop
 - 👯 I’m looking to collaborate on RL and sports analytics related projects
 - 📫 Reach me at: https://www.linkedin.com/in/alex-nasoni/
 - 😄 Pronouns: he/him
