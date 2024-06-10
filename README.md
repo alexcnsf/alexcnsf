@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&pause=5000&color=2991CFDC&random=false&width=435&lines=Welcome+to+my+Github)](https://git.io/typing-svg)
 
 - 🧑‍🎓 I am a junior at Claremont McKenna College majoring in Data Science
-- 🔭 I’m currently working at Barracuda Networks as a Data Analytics Intern
-- 🌱 At the moment I am really interested in Reinforcement Learning and Hadoop
+- 🔭 I’m currently working at Barracuda Networks as a Data Analytics and Reporting Intern
+- 🌱 At the moment I am really interested in Reinforcement Learning
 - 👯 I’m looking to collaborate on RL and sports analytics related projects
 - 📫 Reach me at: https://www.linkedin.com/in/alex-nasoni/
 - 😄 Pronouns: he/him
