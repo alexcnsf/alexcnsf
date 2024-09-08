@@ -17,7 +17,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebooks" width="50" height="50">
 </p>
 
-<h2 align="center">And I enjoy using:</h2>
+<h2 align="center">And I also enjoy using:</h2>
 
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50">&nbsp;&nbsp;&nbsp;
