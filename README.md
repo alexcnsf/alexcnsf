@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on RL and sports analytics related projects
 - 📫 Reach me at: https://www.linkedin.com/in/alex-nasoni/
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I just got back from living in Copenhagen, Denmark for the beginning of the year!
 
 <h1 align="center">My tech stack includes:</h1>
 
