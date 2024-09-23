@@ -3,7 +3,7 @@
 - 🧑‍🎓 I am a senior at Claremont McKenna College majoring in Data Science and Economics
 - 🔭 I'm just spent my summer at Barracuda Networks as a Data Analytics Intern
 - 🌱 At the moment I am really interested in Reinforcement Learning
-- 👯 I’m looking to collaborate on RL and sports analytics related projects
+- 👯 I’m looking to collaborate on RL and image generation related projects
 - 📫 Reach me at: https://www.linkedin.com/in/alex-nasoni/
 - 😄 Pronouns: he/him
 
