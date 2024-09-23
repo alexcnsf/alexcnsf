@@ -4,7 +4,7 @@
 - 🔭 I'm just spent my summer at Barracuda Networks as a Data Analytics Intern
 - 🌱 At the moment I am really interested in Reinforcement Learning
 - 👯 I’m looking to collaborate on RL and image generation related projects
-- 📫 Reach me at: https://www.linkedin.com/in/alex-nasoni/
+- 📫 Reach me here on github or at: https://www.linkedin.com/in/alex-nasoni/
 - 😄 Pronouns: he/him
 
 <h1 align="center">My tech stack includes:</h1>
