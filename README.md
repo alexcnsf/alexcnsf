@@ -2,8 +2,8 @@
 
 - 🧑‍🎓 I am a senior at Claremont McKenna College majoring in Data Science and Economics
 - 🔭 I'm just spent my summer at Barracuda Networks as a Data Analytics Intern
-- 🌱 At the moment I am really interested in Reinforcement Learning
-- 👯 I’m looking to collaborate on RL and image generation related projects
+- 🌱 At the moment I am really interested in Reinforcement Learning, image generation, and Edtech.
+- 👯 I’m looking to collaborate on any RL and Edtech related projects!
 - 📫 Reach me here on github or at: https://www.linkedin.com/in/alex-nasoni/
 - 😄 Pronouns: he/him
 
