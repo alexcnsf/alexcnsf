@@ -5,7 +5,6 @@
 - 🌱 At the moment I am really interested in Reinforcement Learning, image generation, and Edtech.
 - 👯 I’m looking to collaborate on any RL and Edtech related projects!
 - 📫 Reach me here on github or at: https://www.linkedin.com/in/alex-nasoni/
-- 😄 Pronouns: he/him
 
 <h1 align="center">My tech stack includes:</h1>
 
