@@ -10,14 +10,14 @@
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50">&nbsp;&nbsp;&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50">&nbsp;&nbsp;&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="95" height="50">&nbsp;&nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="100" height="50">&nbsp;&nbsp;&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50">&nbsp;&nbsp;&nbsp;
 
 <h2 align="center">And I also enjoy using:</h2>
 
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="50" height="50">&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="Spark" width="50" height="50">&nbsp;&nbsp;&nbsp;
+    <img src="https://en.wikipedia.org/wiki/Apache_Spark#/media/File:Apache_Spark_logo.svg" alt="Spark" width="50" height="50">&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50">&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" alt="Plotly" width="50" height="50">&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="50" height="50">&nbsp;&nbsp;&nbsp;
