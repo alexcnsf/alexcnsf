@@ -18,7 +18,7 @@
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="50" height="50">&nbsp;&nbsp;&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" width="50" height="50">&nbsp;&nbsp;&nbsp;
-     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="100" height="30">&nbsp;&nbsp;&nbsp;
+     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="120" height="30">&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50">&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" alt="Plotly" width="50" height="50">&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="50" height="50">&nbsp;&nbsp;&nbsp;
