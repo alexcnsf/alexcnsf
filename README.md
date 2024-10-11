@@ -10,9 +10,10 @@
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50">&nbsp;&nbsp;&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50">&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50">&nbsp;&nbsp;&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="100" height="40">&nbsp;&nbsp;&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="SQL" width="50" height="50">&nbsp;&nbsp;&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50">&nbsp;&nbsp;&nbsp;
+        
 
 <h2 align="center">And I also enjoy using:</h2>
 
