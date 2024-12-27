@@ -28,4 +28,4 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium" width="50" height="50">
 </p>
 
-Some of my past projects are:
+Some of my past work is:
